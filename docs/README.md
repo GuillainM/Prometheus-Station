@@ -641,6 +641,6 @@ Let's build something amazing. 🚀
 
 ---
 
-*Last updated: December 2024*  
+*Last updated: December 2025*  
 *Written by: Guillain Mejane*  
 *Status: Living document (feedback welcome!)*
