@@ -190,13 +190,13 @@ This repository contains **complete, tested, beginner-friendly documentation** f
 - Content management and rotation
 - **Time:** 2 hours initial + 30-45 min/month | **Difficulty:** ⭐⭐⭐☆☆ Medium
 
-**⏳ [Step 6: Solar power](docs/06-solar-power.md)**
+**⏳ Step 6: Solar power**
 - Power system wiring
 - Energy monitoring
 - Autonomy optimization
 - **Status:** Planned
 
-**⏳ [Step 7: Meshtastic setup](docs/07-meshtastic-setup.md)**
+**⏳ Step 7: Meshtastic setup**
 - LoRa radio configuration
 - Mesh network deployment
 - Mobile terminal setup
@@ -409,7 +409,7 @@ Content sources: WHO, MSF, ICRC field guidelines. Verify critical information fr
 
 ## 📜 License
 
-**MIT License** - See [LICENSE](LICENSE)
+**MIT License**
 
 Copyright © 2025 Guillain Mejane
 
